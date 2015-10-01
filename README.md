@@ -1,1 +1,3 @@
 # SGGitTut
+linjeong
+sngjoong
